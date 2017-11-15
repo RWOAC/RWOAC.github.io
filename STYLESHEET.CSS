@@ -1,5 +1,42 @@
+ul {
+  list-style-type: none;
+  background-color: lightgrey;
+  font-size: 250%;
+  margin: 0;
 
-p {
-	color: red;
-	text-align: center;
+}
+
+li a:hover {
+  background: aquamarine;
+  
+}
+
+li a {
+  marigin: 0;
+  font-family: Arial;
+  text-decoration: none;
+  color: black;
+  text-align: center;
+  height: 30px;
+  padding: 10px;
+  positon: fixed;
+  height: 100%;
+
+  
+}
+
+ul {
+  
+  padding: 0;
+}
+
+
+body {
+  
+  margin: 0;
+  
+}
+
+li {
+  display: inline
 }
